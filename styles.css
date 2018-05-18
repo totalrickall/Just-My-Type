@@ -11,10 +11,10 @@
 
 #yellow-block {
   position: absolute;
-  margin-top: 10px;
-  width: 15px;
-  height: 15px;
-  background-color: yellow;
+  margin-top: 5px;
+  width: 0%;
+  height: 25px;
+  background-color: lime;
 }
 
 .keyboard-container {
